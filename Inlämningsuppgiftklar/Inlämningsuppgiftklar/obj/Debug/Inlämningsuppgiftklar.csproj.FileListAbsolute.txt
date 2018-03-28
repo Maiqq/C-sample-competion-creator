@@ -1,0 +1,6 @@
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\bin\Debug\Inlämningsuppgiftklar.exe.config
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\bin\Debug\Inlämningsuppgiftklar.exe
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\bin\Debug\Inlämningsuppgiftklar.pdb
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\obj\Debug\Inlämningsuppgiftklar.csproj.CoreCompileInputs.cache
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\obj\Debug\Inlämningsuppgiftklar.exe
+F:\Avancerad Programmering\Inlämningsuppgift10.3.Klar\Inlämningsuppgiftklar\Inlämningsuppgiftklar\obj\Debug\Inlämningsuppgiftklar.pdb
